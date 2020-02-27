@@ -1,8 +1,8 @@
-# scratch
+# appleScript
 
 
-Project in Scratch
+Several script in Apple Script
 
-Main purpose is to catch the egg and don't hit the suns, because they burn :) 
+Main purpose is to automate taks in Mac Automator
 
-https://scratch.mit.edu/
+https://support.apple.com/en-gb/guide/automator/welcome/mac
