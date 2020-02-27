@@ -1,9 +1,3 @@
-Thursday, 27 February 2020
-22:14
-
-# CONVERT PAGES DOCUMENTS IN WORD DOCUMENTS
-
-
 on run {input, parameters}
 --Select from where you will pick up the pages files
 set theSourceFolder to choose folder with prompt "Select folder with original pages files :"
